@@ -86,12 +86,17 @@ nav {
 
 /* Main */
 main {
-    background-color: powderblue;
     /* Allow main to take up surplus and push footer to the bottom */
     flex: 1 0 auto;
     margin-top: 47px;  
 }
 
+/* Hero */
+#hero {
+    height: 600px;
+    width: 100%;
+    background-color: lightgreen;
+}
 /* Footer */
 #social-networks {
     text-align: center;
