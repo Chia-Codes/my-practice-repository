@@ -159,7 +159,7 @@ main {
     align-items: center;
     justify-content: center;
  }
- 
+
 /* Footer */
 #social-networks {
     text-align: center;
@@ -270,3 +270,4 @@ main {
         align-self: flex-end;
     }
 }
+
